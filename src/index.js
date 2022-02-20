@@ -1,2 +1,5 @@
-// loadJSON
-export loadJSON from './loadJSON';
+import loadJSON from './loadJSON.js';
+
+export {
+  loadJSON
+};
